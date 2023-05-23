@@ -1,0 +1,28 @@
+{
+  "name": "back-end-nodejs",
+  "version": "1.0.0",
+  "description": "back-end em nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camillaUnicap/back-end-nodejs.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "camilla.santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camillaUnicap/back-end-nodejs/issues"
+  },
+  "homepage": "https://github.com/camillaUnicap/back-end-nodejs#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongodb": "^5.5.0",
+    "mongoose": "^7.2.0"
+  }
+}
